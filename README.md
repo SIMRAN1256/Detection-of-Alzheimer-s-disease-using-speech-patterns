@@ -23,7 +23,8 @@ assessor's lines, parts of speech transcripts, and time stamps.
 
 
 
-#
+![Screenshot 2024-06-22 173447](https://github.com/SIMRAN1256/Detection-of-Alzheimer-s-disease-using-speech-patterns/assets/101476806/15c06dda-02b7-4b76-9dd8-755e31ec1d29)
+
 **3) DETECTION MODELS**
 
 Model Summary:
@@ -98,4 +99,6 @@ layers, facilitating efficient training and improved generalization performance.
 
 
 
+![Screenshot 2024-06-22 174133](https://github.com/SIMRAN1256/Detection-of-Alzheimer-s-disease-using-speech-patterns/assets/101476806/c3df5cbd-3f04-4757-b94b-6ac27a9bc09e)
 
+![Screenshot 2024-06-22 174352](https://github.com/SIMRAN1256/Detection-of-Alzheimer-s-disease-using-speech-patterns/assets/101476806/6cbcd4ff-e9f3-46a0-9dfd-30884d5c7654)
